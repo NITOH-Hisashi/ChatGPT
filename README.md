@@ -12,4 +12,4 @@ https://chat.openai.com/
 4. ChatGPTは学習データに基づいて応答を生成するため、個人情報や機密情報など、公開されてはいけない情報を扱う際には注意が必要です。
 5. ChatGPTは自然言語処理技術に基づいているため、言語の理解力に限界があります。そのため、複数の意味を持つ単語や、複雑な文法構造を含む文章に対しては、回答が不十分な場合があります。
 
-[ChatGPTを活用する上で留意すべき事項](https://nitoh-hisashi.github.io/ChatGPT/)
+[ChatGPTを活用する上で留意すべき事項](https://nitoh-hisashi.github.io/ChatGPT/ChatGPTを活用する上で留意すべき事項.html)
